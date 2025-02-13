@@ -1,4 +1,4 @@
-# 🗺️ GeoFBDS-DosselAmbiental - Download e Processamento de Dados Geoespaciais
+## 🗺️ GeoFBDS-DosselAmbiental - Download e Processamento de Dados Geoespaciais
 
 Este projeto realiza o **download automático de shapefiles dos estados brasileiros**, extrai e processa os arquivos, criando **mosaicos geográficos** padronizados no sistema de coordenadas.
 ### 📺 Demonstração do Projeto
@@ -9,6 +9,15 @@ Este projeto realiza o **download automático de shapefiles dos estados brasilei
 
 
 ## 🚀 **Instalação e Configuração**
+
+Antes de tudo clone o projeto:
+```
+git clone git@github.com:EduardoGurgel/GeoFBDS-DosselAmbiental.git
+```
+Entre no diretório do projeto
+```
+cd GeoFBDS-DosselAmbiental
+```
 
 ### 1️⃣ Criar e ativar um ambiente virtual (VENV)
 
@@ -44,3 +53,8 @@ python main.py
 - Matplotlib (Visualização)
 - Requests (Download de arquivos)
 - tqdm (Barra de progresso)
+
+## 📩 Contato
+Caso tenha dúvidas ou sugestões, entre em contato:
+- Email: eduardo-gurgel@hotmail.com
+- Telefone: (61) 9 8123-6435
